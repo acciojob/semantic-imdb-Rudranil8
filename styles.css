@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+body{
+	background-color:grey;
+}
+header{
+	color:white;
+	background-color:black;
+}
+summary{
+	background-color:yellowgreen;
+}
+aside{
+	font-weight:bolder;
+	font-family:absolute;
+}
+footer{
+	color:blue;
+	background-color:white;
+}
